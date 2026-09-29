@@ -1,5 +1,7 @@
 # M&A Model — Adani Group Acquisition of Ambuja Cements & ACC Ltd
 
+[![Live Dashboard](https://img.shields.io/badge/View-Live_Dashboard-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://Yugdes.github.io/Adani-Ambuja-MA-Model/dashboard/index.html)
+
 ## Deal Overview
 
 **Transaction**: Adani Group's acquisition of Holcim's 63.15% stake in Ambuja Cements Ltd (and indirect control of ACC Ltd through Ambuja's 50.05% stake in ACC)
