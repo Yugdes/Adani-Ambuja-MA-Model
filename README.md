@@ -112,7 +112,8 @@ Open `dashboard/index.html` in any modern browser — no server required.
 
 ## Author
 
-Built as a comprehensive M&A case study for Investment Banking analyst role preparation.
+**Yug Desai** — Mechanical Engineering, IIT Gandhinagar (Class of 2027). Interested in Investment Banking and Financial Analytics.
 
+[LinkedIn](https://www.linkedin.com/in/yug-desai-9a227428b/) · [Email](mailto:yug.desai@iitgn.ac.in)
 ---
 *Disclaimer: This model is built using publicly available data for educational and analytical purposes. Financial projections and assumptions are illustrative and do not constitute investment advice.*
